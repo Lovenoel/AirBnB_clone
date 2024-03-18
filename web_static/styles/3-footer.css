@@ -1,0 +1,15 @@
+footer {
+    position: fixed; /* Fixed positioning to stick to the bottom */
+    bottom: 0; /* Align at the bottom */
+    left: 0;
+    width: 100%;
+    background-color: #484848;
+    color: white;
+    height: 60px;
+    border-top: 1px solid #CCCCCC; /* Border at the top */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
