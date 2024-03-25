@@ -1,15 +1,24 @@
 header {
-    background-color: #484848; /* Background color */
     color: white; /* Text color */
     height: 70px; /* Height of the header */
     width: 100%; /* Full width */
     border-bottom: 1px solid #CCCCCC; /* Bottom border */
     display: flex; /* Use flexbox for alignment */
     align-items: center; /* Center vertically */
+    padding-left: 20px; /* Add space at the left for the logo */
+    background-image: url("../images/logo.png"); /* Path to your logo image */
+    background-size: auto 50%; /* Adjust the size of the background image */
+    background-repeat: no-repeat;
+    background-position: 20px center; /* Position the background image */
 }
 
 .logo {
-    margin-left: 20px; /* Space at the left */
+    width: 100px;
+    height: 50px;
+    background-image: url(/images/logo.png);
+    background-size: cover;
+    margin-left: 20px;
+    align-items: center;
 }
 
 
