@@ -11,8 +11,8 @@
 }
 .places article {
     width: 390px;
-    padding: 20px;
-    margin: 20px;
+    padding: 9px;
+    margin: 9px;
     border: 1px solid #FF5A5F;
     border-radius: 4px;
     max-width: calc(50% - 40px);
